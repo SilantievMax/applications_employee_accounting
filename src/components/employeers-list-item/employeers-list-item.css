@@ -7,14 +7,14 @@
     border-bottom: none;
 }
 
-.list-group-item  {
+.list-group-item span {
     line-height: 35px;
     font-size: 20px;
     cursor: pointer;
     min-width: 550px;
 }
 
-.list-group-item  {
+.list-group-item input {
     line-height: 35px;
     font-size: 20px;
     text-align: center;
